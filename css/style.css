@@ -3,3 +3,19 @@
   padding: 0;
   box-sizing: border-box;
 }
+body{
+  background-color: rgb(75, 218, 205);
+}
+#container{
+  width: 40%;
+  margin: 60px auto;
+  text-align: center;
+  background-color: white;
+}
+#container ul{
+  list-style: none;
+}
+#container ul li{
+  font-size: 30px;
+  padding: 24px 0;
+}
